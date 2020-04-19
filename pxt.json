@@ -1,5 +1,5 @@
 {
-    "name": "Untitled",
+    "name": "ship game",
     "dependencies": {
         "device": "*",
         "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
